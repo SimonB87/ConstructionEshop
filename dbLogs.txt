@@ -1,0 +1,3 @@
+DB Logs:
+
+C:\Program Files\Microsoft SQL Server\150\Setup Bootstrap\Log\20210727_230814
