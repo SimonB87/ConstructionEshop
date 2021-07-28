@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Simon\\webDev\\PROJECT\\11_working\\1_asp.net_mastery\\src\\RockyEshop\\RockyEshop\\RockyEshop.csproj": {}
+    "C:\\Users\\simon.buryan\\Documents\\x\\dotnet\\ConstructionEshop\\src\\RockyEshop\\RockyEshop\\RockyEshop.csproj": {}
   },
   "projects": {
-    "d:\\Simon\\webDev\\PROJECT\\11_working\\1_asp.net_mastery\\src\\RockyEshop\\RockyEshop\\RockyEshop.csproj": {
+    "C:\\Users\\simon.buryan\\Documents\\x\\dotnet\\ConstructionEshop\\src\\RockyEshop\\RockyEshop\\RockyEshop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Simon\\webDev\\PROJECT\\11_working\\1_asp.net_mastery\\src\\RockyEshop\\RockyEshop\\RockyEshop.csproj",
+        "projectUniqueName": "C:\\Users\\simon.buryan\\Documents\\x\\dotnet\\ConstructionEshop\\src\\RockyEshop\\RockyEshop\\RockyEshop.csproj",
         "projectName": "RockyEshop",
-        "projectPath": "d:\\Simon\\webDev\\PROJECT\\11_working\\1_asp.net_mastery\\src\\RockyEshop\\RockyEshop\\RockyEshop.csproj",
-        "packagesPath": "C:\\Users\\simon\\.nuget\\packages\\",
-        "outputPath": "d:\\Simon\\webDev\\PROJECT\\11_working\\1_asp.net_mastery\\src\\RockyEshop\\RockyEshop\\obj\\",
+        "projectPath": "C:\\Users\\simon.buryan\\Documents\\x\\dotnet\\ConstructionEshop\\src\\RockyEshop\\RockyEshop\\RockyEshop.csproj",
+        "packagesPath": "C:\\Users\\simon.buryan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\simon.buryan\\Documents\\x\\dotnet\\ConstructionEshop\\src\\RockyEshop\\RockyEshop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\simon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\simon.buryan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -63,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
